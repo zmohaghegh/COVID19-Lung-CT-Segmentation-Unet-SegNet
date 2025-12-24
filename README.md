@@ -4,7 +4,7 @@ This repository contains the implementation of a deep learning-based medical ima
 Medical Image Segmentation on COVID-19 CT scans comparing U-Net and SegNet architectures using TensorFlow/Keras
 
 ## 🌟 Key Highlights (From My Research)
-- [cite_start]**High Accuracy:** Achieved a mean accuracy of **0.95 with SegNet** and **0.91 with U-Net**[cite: 56].
+- [cite_start]**High Accuracy:** Achieved a mean accuracy of **0.90 with SegNet** and **0.90 with U-Net**[cite: 56].
 - [cite_start]**Robust Validation:** Implemented **Five-fold Cross-validation** to ensure model stability and generalizability across limited datasets[cite: 55].
 - [cite_start]**Interpretability:** Utilized **Deep Dream** methods to visualize features extracted by the network and understand infection patterns[cite: 56].
 
